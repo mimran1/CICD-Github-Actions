@@ -2,6 +2,8 @@
 A Sample Repo to understand GitHub Actions
 
 All steps are explained here: https://www.youtube.com/watch?v=MhEa8fENJqM&list=PLhGL9p3BWHwtHPWX8g7yJFQvICdNhFQV7&index=21
+You may have to follow this: https://stackoverflow.com/questions/50739869/web-app-is-not-loading-after-deploying
+if even after successfull deploy the webapp is not loading.
 
 Steps:
 1. Create a Webapp using visual studio
