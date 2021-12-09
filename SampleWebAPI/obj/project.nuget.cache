@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "Cujh7kgutrh3gF73bB1StMSfbnJx3x31IMIcxFywHQs/VCq6VzumCqqx5l8smsNKXvtW2dzKCRbbvrbr2U73aw==",
+  "success": true,
+  "projectFilePath": "I:\\All Code Ever\\Projects\\CSharp\\GitHub-Actions\\CICD-Github-Actions\\SampleWebAPI\\SampleWebAPI\\SampleWebAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Imran\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Imran\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Imran\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Imran\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Imran\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Imran\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512",
+    "C:\\Users\\Imran\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
